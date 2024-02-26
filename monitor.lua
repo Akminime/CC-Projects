@@ -1,4 +1,4 @@
-local monitor = peripheral.find("monitor_0")
+local monitor = peripheral.find("monitor_1")
 monitor.setCursorPos(1, 1)
 monitor.write("Locating Chest...")
 local chest = peripheral.find("minecraft:chest")
