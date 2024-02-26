@@ -1,4 +1,4 @@
-local monitor = peripheral.find("monitor_2")
+local monitor = peripheral.find("monitor_0")
 
 if monitor then
     monitor.setCursorPos(1, 1)
