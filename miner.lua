@@ -4,7 +4,7 @@ function inspection()
 end
 
 while true do
-    if inspection == "minecraft:dirt"
+    if inspection == "minecraft:dirt" then
         print("Dirt Beneath")
 
     else
